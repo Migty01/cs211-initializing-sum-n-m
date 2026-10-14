@@ -1,1 +1,4 @@
-Edgar, Computer Science, DSA is my favorite CS topic, and a challenging topic are algorithms
+Name: Edgar
+Major: Computer Science
+Favorite CS Topic: DSA is my favorite CS topic
+Challenging topic are algorithms
